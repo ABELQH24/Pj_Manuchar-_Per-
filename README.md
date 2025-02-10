@@ -3,5 +3,7 @@ Una empresa de venta al por menor de productos electrónicos está buscando mejo
 
 ### 1. Instalar dependencias de producción y desarrollo:
 ```bash
+python -m venv .venv
+python.exe -m pip install --upgrade pip
 pip install -r requirements.dev.txt
 
