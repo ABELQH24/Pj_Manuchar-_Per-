@@ -1,0 +1,13 @@
+-r requirements.txt
+# Librerías para la gestión de entornos y pruebas
+black==23.1.0
+
+# Librerías para el análisis y visualización
+seaborn==0.12.2
+plotly==5.10.0
+jupyter==1.1.1
+
+# Librerías adicionales de uso frecuente para desarrollo y experimentación
+jupyterlab==4.0.0
+ipython==8.14.0
+openpyxl==3.1.2
