@@ -1,5 +1,5 @@
 -r requirements.txt
-# Librerías para la gestión de entornos y pruebas
+# Librerías para mantener la consistencia del estilo de código.
 black==23.1.0
 
 # Librerías para el análisis y visualización
