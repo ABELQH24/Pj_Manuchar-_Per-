@@ -1,6 +1,7 @@
 pandas
 statsmodels
 scikit-learn
+statsmodels
 matplotlib
 scipy
 xgboost
