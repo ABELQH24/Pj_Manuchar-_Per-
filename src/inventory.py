@@ -1,1 +1,0 @@
-# Cálculos de inventarios y reabastecimiento
